@@ -10,7 +10,7 @@ body {
     background-color: blueviolet;
 }
 /* whatsap boton */
-.container-boton{
+.container-boton1{
     background-color: #2e6329;
     border: 1px solid #fff;
     position: fixed;
@@ -23,12 +23,12 @@ body {
     animation: efecto 1.2s infinite;
 }
 
-.container-boton:hover{
+.container-boton1:hover{
     transform: scale(1.1);
     transition: 0.3s;
 }
 
-.boton{
+.boton1{
     width: 80px;
     transition: ease 1s;
 }
